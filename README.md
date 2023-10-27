@@ -8,4 +8,4 @@ After installing Apache, copy/paste all files in Project_Source.zip into the Apa
   
 open the browser, and go to "localhost", so that would automatically directed to index.php.
   
-![alt text](http://url/to/img.png)
+![demo](https://raw.githubusercontent.com/armixz/Task-Manager-Development/main/demo.PNG)
