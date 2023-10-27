@@ -7,3 +7,5 @@ Requirements: Apache, PHP
 After installing Apache, copy/paste all files in Project_Source.zip into the Apache directory (Linux: /var/www/html/)  
   
 open the browser, and go to "localhost", so that would automatically directed to index.php.
+  
+![alt text](http://url/to/img.png)
